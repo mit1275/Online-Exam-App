@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "307834772229",
+    "firebase_url": "https://examinations-93b19.firebaseio.com",
+    "project_id": "examinations-93b19",
+    "storage_bucket": "examinations-93b19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307834772229:android:da954c902833c18ea1b56c",
+        "android_client_info": {
+          "package_name": "com.example.examinations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307834772229-jlpekp0afr1pv88evlvrio6023t5q6kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB70xM9AGJiKDY-dHkOMG3b_kybNvQcY6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307834772229-jlpekp0afr1pv88evlvrio6023t5q6kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
